@@ -684,7 +684,7 @@ input[type="radio"] + label:before {
 
 	.image.main {
 		display: block;
-		margin: 2rem 0;
+		margin: 4rem 0;
 		width: 100%;
 	}
 
