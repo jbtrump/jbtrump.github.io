@@ -310,6 +310,11 @@ hr {
 	text-align: right;
 }
 
+.centerImage {
+text-align:center;
+display:block;
+}
+
 /* Form */
 
 form {
